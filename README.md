@@ -1,6 +1,6 @@
 # Particle-Filter-CoppeliaSim
 This project will focus on the creation of a particle filter algorithm to localize
-the robot pioneer p3dx based on its measurements.The map and the measurements of the robot will be now and the objective
+the robot pioneer p3dx based on its measurements.The map and the measurements of the robot will be known and the objective
 is to be able to determine the robots in the shortest time possible while avoiding false predictions.
 
 * Estimate the probability of observing a set of range measurements given a map and a known pose
